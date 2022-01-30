@@ -21,7 +21,7 @@
 # title: Cadre Demo
 email: smlee.981@gmail.com  
 description: A responsive, modern, Jekyll theme for bloggers with Bootstrap styling and KaTex support.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-theme-cadre" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
